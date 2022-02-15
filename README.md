@@ -57,6 +57,7 @@ GOOGLE_APPLICATION_CREDENTIALS - Your GCP Credentials get from Google Cloud
 STRIPE_TOKEN - Stripe.com token for receiving Donations.
 SLACK_TOKEN - slack.com api token to recieve Feedbacks on Slack.com if not entered you will recieve in your Telegram 
 ```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 ## Where To Get The Optional Vars...
 
